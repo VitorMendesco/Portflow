@@ -12,7 +12,6 @@
 
 **<p align=center style="font-size: 1.5rem; color: #C41A29"><u>Projects</u></p>**
 
-
 <div align="center" style="display: inline_block;">
   <img align="center" alt="print1" width="20%" src="https://via.placeholder.com/100">
 
