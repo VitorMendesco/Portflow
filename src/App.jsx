@@ -3,7 +3,7 @@ import MainContent from "./components/MainContent";
 import Sidebar from "./components/Sidebar";
 
 // css
-import "./styles/components/app.sass";
+import "./styles/components/App.scss";
 
 export default function App() {
   return (
