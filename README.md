@@ -30,13 +30,13 @@
   <img align="center" alt="arkade" width="40%" src="./src/img/arkade.gif">
   </a>
 
-##
+#
 
   <a href="https://github.com/VitorMendesco/Netflix" alt="netflix">
   <img align="center" alt="netflix" width="40%" src="./src/img/netflix.gif">
   </a>
 
-##
+#
 
   <a href="https://github.com/VitorMendesco/Costs" alt="costs">
   <img align="center" alt="costs" width="40%" src="./src/img/costs.gif">
