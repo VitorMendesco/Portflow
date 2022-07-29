@@ -1,0 +1,42 @@
+@use "../variables";
+@use "../mixins";
+
+.projects_container {
+    margin-bottom: 1rem;
+
+    .projects_container__grid {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        gap: 1rem;
+
+        .tech_card {
+            @include mixins.center;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            padding: 1rem;
+            border: 1px solid #333;
+            width: 45%;
+            border-radius: variables.$card-border-radius;
+
+            img {
+                width: 18rem;
+                height: 8rem;
+                image-rendering: pixelated;
+            }
+        }
+
+        .proj {
+            border: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            a {
+                padding: 1.8rem 3rem !important;
+                font-size: 1.6rem;
+            }
+        }
+    }
+}

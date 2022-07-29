@@ -9,8 +9,9 @@ import {
   DiSass,
   DiCss3,
   DiHtml5,
-  DiMysql,
   DiJava,
+  DiMysql,
+  DiPhotoshop,
 } from "react-icons/di";
 
 function TechnologiesContainer(props) {
@@ -20,8 +21,9 @@ function TechnologiesContainer(props) {
     { id: "sass", name: "Sass", icon: <DiSass /> },
     { id: "css", name: "CSS3", icon: <DiCss3 /> },
     { id: "html", name: "HTML5", icon: <DiHtml5 /> },
-    { id: "mysql", name: "MySQL", icon: <DiMysql /> },
     { id: "java", name: "Java", icon: <DiJava /> },
+    { id: "mysql", name: "MySQL", icon: <DiMysql /> },
+    { id: "photoshop", name: "Photoshop", icon: <DiPhotoshop /> },
   ];
   return (
     <section className="technologies_container">

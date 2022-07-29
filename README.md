@@ -1,7 +1,7 @@
-# **My Portfolio**
+# **My Portfolio Prototype**
 
 <div align="center">
-<img alt="prints" width="40%" src="https://via.placeholder.com/100">
+<img alt="prints" width="30%" src="./public/emoticon.svg">
 </div>
 
 #
@@ -10,22 +10,37 @@
 
 #
 
-**<p align=center style="font-size: 1.5rem; color: #C41A29"><u>Projects</u></p>**
+> 
+> **`Running Tutorial`**
+>><br />
+>>
+>>1. Open terminal and type:
+>>>**`npm run dev`**
+>>2. Now, just open in your browser at **URL**:
+>>>**`http://localhost:5173/`**
+>>
+>><br />
+
+#
+
+**<p align=center style="font-size: 2.5rem; color: #C41A29"><u>Projects</u></p>**
 
 <div align="center" style="display: inline_block;">
-  <img align="center" alt="print1" width="20%" src="https://via.placeholder.com/100">
+  <a href="https://github.com/VitorMendesco/Arkade" alt="arkade">
+  <img align="center" alt="arkade" width="40%" src="./src/img/arkade.gif">
+  </a>
 
 ##
 
-  <img align="center" alt="print2" width="20%" src="https://via.placeholder.com/100">
+  <a href="https://github.com/VitorMendesco/Netflix" alt="netflix">
+  <img align="center" alt="netflix" width="40%" src="./src/img/netflix.gif">
+  </a>
 
 ##
 
-  <img align="center" alt="print2" width="20%" src="https://via.placeholder.com/100">
-
-##
-
-  <img align="center" alt="print2" width="20%" src="https://via.placeholder.com/100">
+  <a href="https://github.com/VitorMendesco/Costs" alt="costs">
+  <img align="center" alt="costs" width="40%" src="./src/img/costs.gif">
+  </a>
 </div>
 <br />
 

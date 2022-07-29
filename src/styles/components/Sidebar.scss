@@ -2,6 +2,7 @@
 @use "../mixins";
 
 #sidebar {
+    height: fit-content;
     background-color: variables.$bg-color;
     flex: 1 1 0;
     border-radius: variables.$container-border-radius;
@@ -17,9 +18,10 @@
         border-radius: variables.$container-border-radius;
         position: absolute;
         top: -3rem;
-
+        transition: all .2s;
+        
         &:hover {
-            max-width: 71%;
+            max-width: 41%;
         }
     }
 
